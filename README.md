@@ -1,0 +1,2 @@
+# Federated-Graph-Learning-for-Privacy-Conscious-and-Scalable-Intrusion-Detection-in-IoT-Ecosystemm
+This repository introduces a novel framework titled Federated Graph Learning for Privacy-Conscious and Scalable Intrusion Detection in IoT Ecosystems. Drawing on over two decades of research in artificial intelligence, distributed systems, and cybersecurity, the work reflects a mature perspective on the pressing.
